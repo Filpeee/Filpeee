@@ -1,18 +1,18 @@
 # Felipe Almeida Pereira
 
-[cite_start]Estudante de Ciência de Dados na Universidade Federal de Minas Gerais (UFMG)[cite: 5, 28], com forte interesse em Inteligência Artificial, Aprendizado de Máquina e Análise de Dados.
+Estudante de Ciência de Dados na Universidade Federal de Minas Gerais (UFMG), com forte interesse em Inteligência Artificial, Aprendizado de Máquina e Análise de Dados.
 
 ---
 
 ### Sobre mim
 
-- [cite_start]🎓 Cursando o 4º período de Ciência de Dados[cite: 28].
+- 🎓 Cursando o 4º período de Ciência de Dados.
 - 💡 Focado em desenvolver uma base sólida em programação, estatística e matemática.
 - 🌱 Buscando aprender e aplicar novas tecnologias para resolver problemas do mundo real.
 
 ### Habilidades Principais
 
-- **Linguagens:** C, C++, Python
+- **Linguagens e Ferramentas:** C, C++, Python, Pandas, SQL
 - **Conceitos:** Estruturas de Dados, Bancos de Dados, Probabilidade, Estatística, Álgebra Linear.
 
 ### Contato
