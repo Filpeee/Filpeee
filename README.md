@@ -1,37 +1,23 @@
-# Olá, eu sou o Felipe Almeida Pereira! 👋
+# Felipe Almeida Pereira
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/felipe-pereira-484367346/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:felipe@task.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+[cite_start]Estudante de Ciência de Dados na Universidade Federal de Minas Gerais (UFMG)[cite: 5, 28], com forte interesse em Inteligência Artificial, Aprendizado de Máquina e Análise de Dados.
 
 ---
 
-[cite_start]Sou um estudante de **Ciência de Dados** na **Universidade Federal de Minas Gerais (UFMG)**[cite: 5, 28], apaixonado por tecnologia e pela capacidade de transformar dados em soluções.
+### Sobre mim
 
-- 👨‍💻 Atualmente no 4º período, aprofundando meus conhecimentos em programação e matemática.
-- 🧠 Tenho grande interesse em **Inteligência Artificial**, **Aprendizado de Máquina** e **Análise de Dados**.
-- 💡 Busco aplicar a tecnologia para solucionar problemas e extrair insights valiosos.
+- [cite_start]🎓 Cursando o 4º período de Ciência de Dados[cite: 28].
+- 💡 Focado em desenvolver uma base sólida em programação, estatística e matemática.
+- 🌱 Buscando aprender e aplicar novas tecnologias para resolver problemas do mundo real.
 
-## 🚀 Tecnologias e Habilidades
+### Habilidades Principais
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Felipe-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
+- **Linguagens:** C, C++, Python
+- **Conceitos:** Estruturas de Dados, Bancos de Dados, Probabilidade, Estatística, Álgebra Linear.
 
----
+### Contato
 
-### Conceitos Fundamentais:
-- **Linguagens de Programação:** C, C++, Python
-- **Estruturas de Dados e Algoritmos**
-- **Bancos de Dados**
-- **Probabilidade e Estatística**
-- **Álgebra Linear**
+- **LinkedIn:** [https://www.linkedin.com/in/felipe-pereira-484367346/](https://www.linkedin.com/in/felipe-pereira-484367346/)
+- **E-mail:** felipe@task.com.br
 
 
