@@ -14,7 +14,7 @@
 Sou um estudante de **Ciência de Dados** na **Universidade Federal de Minas Gerais (UFMG)**, apaixonado por tecnologia e pela capacidade de transformar dados em soluções.
 
 - 👨‍💻 Atualmente no 4º período, aprofundando meus conhecimentos em programação e matemática.
-- 🧠 Tenho grande interesse em **Inteligência Artificial**, **Aprendizado de Máquina** e **Análise de Dados**.
+- 🧠 Tenho grande interesse em **Inteligência Artificial**, **Aprendizado de Máquina** e **Ciência de Dados**.
 - 💡 Busco aplicar a tecnologia para solucionar problemas e extrair insights valiosos.
 
 ## 🚀 Tecnologias e Habilidades
