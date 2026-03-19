@@ -28,8 +28,9 @@ Sou um estudante de **Ciência de Dados** na **Universidade Federal de Minas Ger
 ---
 
 ### Conceitos Fundamentais:
-- **Linguagens de Programação:** C, C++, Python, SQL
-- **Análise de Dados**
+- **Linguagens de Programação:** C, C++, Python, R, SQL
+- **Análise e Modelagem de Dados**
+- **Análise de Regressão e Inferência Estatística**
 - **Pandas**
 - **Estruturas de Dados e Algoritmos**
 - **Bancos de Dados**
